@@ -1,0 +1,27 @@
+# Aussie Surveillance
+
+> Aussie Surveillance designs, supplies and installs CCTV, alarm, access control, video management and cloud security systems for homes and businesses. Based in Echuca, Victoria, servicing customers across Australia.
+
+30 years of security industry experience. 100% Australian owned. ASIAL member.
+
+## Company
+- [About](https://aussiesurveillance.com.au/about.html): Company background and experience.
+- [Contact](https://aussiesurveillance.com.au/contact.html): Phone, email and enquiry details. Call 1300 899 708.
+
+## Products & Services
+- [Products & Services overview](https://aussiesurveillance.com.au/products.html): Full range of CCTV, alarm, access control, video management and cloud security offerings.
+- [Hikvision CCTV](https://aussiesurveillance.com.au/product-hikvision-cctv.html): Hikvision CCTV camera and NVR kits.
+- [Dahua CCTV](https://aussiesurveillance.com.au/product-dahua-cctv.html): Dahua CCTV camera and NVR kits.
+- [Ajax Alarm and CCTV](https://aussiesurveillance.com.au/product-ajax-alarm-cctv.html): Ajax wireless alarm and CCTV with app control.
+- [Bosch Solution 6000](https://aussiesurveillance.com.au/product-bosch-solution-6000.html): Bosch alarm system for larger homes and businesses.
+- [Bosch Solution 3000](https://aussiesurveillance.com.au/product-bosch-solution-3000.html): Bosch alarm system for smaller properties.
+- [Ness D8 & D16](https://aussiesurveillance.com.au/product-ness-d8-d16.html): Ness alarm panels.
+- [Tecom Alarm and Access Control](https://aussiesurveillance.com.au/product-tecom-access-control.html): Access control and alarm systems.
+- [DW Spectrum VMS](https://aussiesurveillance.com.au/product-dw-spectrum-vms.html): Video management software.
+- [Nx Witness VMS](https://aussiesurveillance.com.au/product-nx-witness-vms.html): Video management system for commercial camera networks.
+- [Cloud Security Services](https://aussiesurveillance.com.au/product-cloud-security-services.html): Cloud-connected remote monitoring.
+- [Redundancy Systems](https://aussiesurveillance.com.au/product-redundancy-systems.html): Redundant storage and infrastructure for security systems.
+
+## Guides
+- [Blog](https://aussiesurveillance.com.au/blog.html): Security tips and buying guides.
+- [Choosing the Right CCTV System](https://aussiesurveillance.com.au/blog-choosing-cctv-system.html): Buying guide covering camera count, resolution, night vision and storage.
